@@ -4,4 +4,4 @@ print('Python is fun')
 
 sandwich = 'pastrami'
 
-print('My favorite sandwich is a {sandwich}')
+print(f'My favorite sandwich is a {sandwich}')
